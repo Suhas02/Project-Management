@@ -1,0 +1,21 @@
+{
+  "name": "projmanagement",
+  "version": "1.0.0",
+  "description": "a project management application for beginners",
+  "keywords": [
+    "backend",
+    "API",
+    "creation",
+    "Mongodb"
+  ],
+  "license": "ISC",
+  "author": "suhas yadwad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
